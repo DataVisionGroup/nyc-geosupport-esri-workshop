@@ -1,7 +1,12 @@
 # nyc-geosupport-esri-workshop
 Support documentation and resources for [dvg](http://www.dvginteractive.com/) hosted "using NYC Geosupport in esri apps" workshop at Microsoft Technology Center 3/1/2017.
 
-## NYCGeoClientGeoREST open endpoints
+## NYCGeoClientGeoREST hosting
+The current repository is hosted by **esri** at [https://github.com/Patterns-Practices/NYCGeoClientGeoREST](https://github.com/Patterns-Practices/NYCGeoClientGeoREST). Please note that this repository is not maintained or supported in any way by esri. It is intended for educational/development purposes only.
+
+**dvg** will be supporting a copy of this repository.
+
+## NYCGeoClientGeoREST endpoints
 **dvg** - [https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer](https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer)
 **esri** - [https://nycgeocode.bd.esri.com/GeocodeServer](https://nycgeocode.bd.esri.com/GeocodeServer)
 
