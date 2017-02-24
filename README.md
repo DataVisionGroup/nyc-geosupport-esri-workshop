@@ -1,4 +1,4 @@
-# nyc-geosupport-esri-workshop <a href="http://www.dvginteractive.com/" target="_blank"><img src="http://www.dvginteractive.com/wp-content/themes/dvg/images/logob@2x.png" width="15%" ></a>
+# nyc-geosupport-esri-workshop <a href="http://www.dvginteractive.com/" target="_blank" align="right"><img src="http://www.dvginteractive.com/wp-content/themes/dvg/images/logob@2x.png" width="10%" ></a>
 Support documentation and resources for [dvg](http://www.dvginteractive.com/) hosted "using NYC Geosupport in esri apps" workshop at Microsoft Technology Center 3/1/2017.
 
 ## NYCGeoClientGeoREST hosting
