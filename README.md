@@ -11,6 +11,9 @@ The **dvg** fork of the repo can be found here [https://github.com/DataVisionGro
 
 There is no SLA for this endpoint, and it may be unavailable at any time. Please use both in a testing/development capacity. If you plan to use the **dvg NYCGeoClientGeoREST** endpoint regularly or need more capacity, please let **dvg** know and we may be able to acommodate.
 
+## ArcGIS Online
+An ArcGIS Online (**AGO**) account is a requirement for registering the **NYCGeoClientGeoREST** REST endpoint. If you have an ArcGIS Desktop licence, an **AGO** account comes with it! The URL for your organization will be formatted like this - **http://[your organization].maps.arcgis.com/home/**. You can also get your own FREE development **AGO** account by signing up here [https://developers.arcgis.com/](https://developers.arcgis.com/). **Note** - this account is different from your esri global account. Dont use your esri global credentials!!
+
 ## Geoclient
 In order to use Geoclient, you must register with the [NYC Developer Portal](https://developer.cityofnewyork.us/) for API keys. General info can be founnd at [https://developer.cityofnewyork.us/api/geoclient-api](https://developer.cityofnewyork.us/api/geoclient-api), and API doc can be found here [https://api.cityofnewyork.us/geoclient/v1/doc](https://api.cityofnewyork.us/geoclient/v1/doc).
 
