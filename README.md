@@ -4,7 +4,7 @@ Support documentation and resources for [dvg](http://www.dvginteractive.com/) ho
 ## NYCGeoClientGeoREST hosting
 If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The current repository is hosted by **esri** at [https://github.com/Patterns-Practices/NYCGeoClientGeoREST](https://github.com/Patterns-Practices/NYCGeoClientGeoREST). Please note that this repository is not maintained or supported in any way by esri. It is intended for educational/development purposes only.
 
-**dvg** will be supporting a copy of this repository.
+The **dvg** fork of the repo can be found here [https://github.com/DataVisionGroup/NYCGeoClientGeoREST](https://github.com/DataVisionGroup/NYCGeoClientGeoREST).
 
 ## NYCGeoClientGeoREST endpoints
 **dvg** - [https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer](https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer)
