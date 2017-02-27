@@ -7,7 +7,7 @@ If you would like to host your own instance, you must deploy to IIS. Visual Stud
 The **dvg** fork of the repo can be found here [https://github.com/DataVisionGroup/NYCGeoClientGeoREST](https://github.com/DataVisionGroup/NYCGeoClientGeoREST).
 
 **Instructions**
-1. Clone the repo, or download as a .zip file and unzip.
+1.Clone the repo, or download as a .zip file and unzip.
 2. Build the solution in Visual Studio 2015 (or above). This will install package dependencies.
 3. Debug the solution to make sure it works
 4. Deploy to IIS (8 or above).
