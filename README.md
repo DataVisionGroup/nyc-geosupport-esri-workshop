@@ -15,6 +15,14 @@ The original **esri** repo is at [https://github.com/Patterns-Practices/NYCGeoCl
 <li>Deploy to IIS (8 or above).</li>
 </ol>
 
+
+1.  Clone the repo, or download as a .zip file and unzip.
+2.  Get an `app_id` and `app_key` from the NYC Developer Portal and insert it into the keys in the `Web.config` file
+3.  Build the solution in Visual Studio 2015 (or above). This will install package dependencies.
+4.  Debug the solution to make sure it works
+5.  Deploy to IIS (8 or above).
+
+
 ## NYCGeoClientGeoREST endpoint
 **dvg** - [https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer](https://dvgnycgeoclientgeorest.azurewebsites.net/GeocodeServer)
 
