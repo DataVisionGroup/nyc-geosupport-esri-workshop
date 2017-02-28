@@ -2,13 +2,14 @@
 Support documentation and resources for [dvg](http://www.dvginteractive.com/) hosted "using NYC Geosupport in esri apps" workshop at Microsoft Technology Center 3/1/2017.
 
 ## NYCGeoClientGeoREST hosting
-If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The current repository is hosted by **esri** at [https://github.com/Patterns-Practices/NYCGeoClientGeoREST](https://github.com/Patterns-Practices/NYCGeoClientGeoREST). Please note that this repository is not maintained or supported in any way by esri. It is intended for educational/development purposes only.
+If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The **dvg** repo can be found here [https://github.com/DataVisionGroup/geoclient-esri](https://github.com/DataVisionGroup/geoclient-esri).
 
-The **dvg** fork of the repo can be found here [https://github.com/DataVisionGroup/NYCGeoClientGeoREST](https://github.com/DataVisionGroup/NYCGeoClientGeoREST).
+The original **esri** repo is at [https://github.com/Patterns-Practices/NYCGeoClientGeoREST](https://github.com/Patterns-Practices/NYCGeoClientGeoREST). Please note that this repository is not maintained or supported in any way by esri. It is intended for educational/development purposes only.
 
 **Instructions**
 <ol>
 <li>Clone the repo, or download as a .zip file and unzip.</li>
+<li>Get an `app_id` and `app_key` from the NYC Developer Portal and insert it into the keys in the `Web.config` file</li>
 <li>Build the solution in Visual Studio 2015 (or above). This will install package dependencies.</li>
 <li>Debug the solution to make sure it works</li>
 <li>Deploy to IIS (8 or above).</li>
