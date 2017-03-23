@@ -1,6 +1,9 @@
 # nyc-geosupport-esri-workshop <a href="http://www.dvginteractive.com/" target="_blank" align="right"><img src="http://www.dvginteractive.com/wp-content/themes/dvg/images/logob@2x.png" width="10%" ></a>
 Support documentation and resources for [dvg](http://www.dvginteractive.com/) hosted "using NYC Geosupport in esri apps" workshop at Microsoft Technology Center 3/1/2017.
 
+## News
+3/23/2017 - Going forward, **dvg** will not be supporting the "NYCGeoClientGeoREST" software. Instead, a new application called **locateNYC** will be provided as a replacement. The functionality will be the same, but will support **batch geocoding** and other functionality. Once it's released, I will post here where to find it. 
+
 ## NYCGeoClientGeoREST hosting
 If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The **dvg** repo can be found here [https://github.com/DataVisionGroup/geoclient-esri](https://github.com/DataVisionGroup/geoclient-esri) (**Note: this repository is currently undergoing some maintenence, so it will unavailable temporarily**).
 
