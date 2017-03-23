@@ -2,7 +2,7 @@
 Support documentation and resources for [dvg](http://www.dvginteractive.com/) hosted "using NYC Geosupport in esri apps" workshop at Microsoft Technology Center 3/1/2017.
 
 ## NYCGeoClientGeoREST hosting
-If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The **dvg** repo can be found here [https://github.com/DataVisionGroup/geoclient-esri](https://github.com/DataVisionGroup/geoclient-esri).
+If you would like to host your own instance, you must deploy to IIS. Visual Studio 2015 or above is required. Don't forget to add your API keys to the **Web.config** file. You'll also need to install required NuGet packages. The **dvg** repo can be found here [https://github.com/DataVisionGroup/geoclient-esri](https://github.com/DataVisionGroup/geoclient-esri) (**Note: this repository is currently undergoing some maintenence, so it will unavailable temporarily**).
 
 The original **esri** repo is at [https://github.com/Patterns-Practices/NYCGeoClientGeoREST](https://github.com/Patterns-Practices/NYCGeoClientGeoREST). Please note that this repository is not maintained or supported in any way by esri. It is intended for educational/development purposes only.
 
